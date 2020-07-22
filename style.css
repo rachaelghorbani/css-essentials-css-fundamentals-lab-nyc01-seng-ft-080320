@@ -8,5 +8,5 @@ header {
 }
 
 img {
-  image: center
+  display: block;
 }
